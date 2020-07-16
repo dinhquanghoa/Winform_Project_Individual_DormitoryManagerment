@@ -1,0 +1,66 @@
+D:\EducationManagerment\BUS_TIER\bin\Debug\BUS_TIER.dll
+D:\EducationManagerment\BUS_TIER\bin\Debug\BUS_TIER.pdb
+D:\EducationManagerment\BUS_TIER\bin\Debug\CONNECTTOR_TIER.dll
+D:\EducationManagerment\BUS_TIER\bin\Debug\MODEL.dll
+D:\EducationManagerment\BUS_TIER\bin\Debug\CONNECTTOR_TIER.pdb
+D:\EducationManagerment\BUS_TIER\bin\Debug\MODEL.pdb
+D:\EducationManagerment\BUS_TIER\obj\Debug\BUS_TIER.csprojAssemblyReference.cache
+D:\EducationManagerment\BUS_TIER\obj\Debug\BUS_TIER.csproj.CoreCompileInputs.cache
+D:\EducationManagerment\BUS_TIER\obj\Debug\BUS_TIER.csproj.CopyComplete
+D:\EducationManagerment\BUS_TIER\obj\Debug\BUS_TIER.dll
+D:\EducationManagerment\BUS_TIER\obj\Debug\BUS_TIER.pdb
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\BUS_TIER\bin\Debug\BUS_TIER.dll
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\BUS_TIER\bin\Debug\BUS_TIER.pdb
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\BUS_TIER\bin\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\BUS_TIER\bin\Debug\MODEL.dll
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\BUS_TIER\bin\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\BUS_TIER\bin\Debug\MODEL.pdb
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\BUS_TIER\obj\Debug\BUS_TIER.csprojAssemblyReference.cache
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\BUS_TIER\obj\Debug\BUS_TIER.csproj.CoreCompileInputs.cache
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\BUS_TIER\obj\Debug\BUS_TIER.csproj.CopyComplete
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\BUS_TIER\obj\Debug\BUS_TIER.dll
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\BUS_TIER\obj\Debug\BUS_TIER.pdb
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\BUS_TIER\bin\Debug\BUS_TIER.dll
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\BUS_TIER\bin\Debug\BUS_TIER.pdb
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\BUS_TIER\bin\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\BUS_TIER\bin\Debug\MODEL.dll
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\BUS_TIER\bin\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\BUS_TIER\bin\Debug\MODEL.pdb
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.csprojAssemblyReference.cache
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.csproj.CoreCompileInputs.cache
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.csproj.CopyComplete
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.dll
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.pdb
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\BUS_TIER\bin\Debug\BUS_TIER.dll
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\BUS_TIER\bin\Debug\BUS_TIER.pdb
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\BUS_TIER\bin\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\BUS_TIER\bin\Debug\MODEL.dll
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\BUS_TIER\bin\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\BUS_TIER\bin\Debug\MODEL.pdb
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.csprojAssemblyReference.cache
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.csproj.CoreCompileInputs.cache
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.csproj.CopyComplete
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.dll
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.pdb
+E:\DTU\2.2 Winform\DormitoryManagerment\BUS_TIER\bin\Debug\BUS_TIER.dll
+E:\DTU\2.2 Winform\DormitoryManagerment\BUS_TIER\bin\Debug\BUS_TIER.pdb
+E:\DTU\2.2 Winform\DormitoryManagerment\BUS_TIER\bin\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\DormitoryManagerment\BUS_TIER\bin\Debug\MODEL.dll
+E:\DTU\2.2 Winform\DormitoryManagerment\BUS_TIER\bin\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\DormitoryManagerment\BUS_TIER\bin\Debug\MODEL.pdb
+E:\DTU\2.2 Winform\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.csprojAssemblyReference.cache
+E:\DTU\2.2 Winform\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.csproj.CoreCompileInputs.cache
+E:\DTU\2.2 Winform\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.csproj.CopyComplete
+E:\DTU\2.2 Winform\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.dll
+E:\DTU\2.2 Winform\DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.pdb
+E:\github\Winform_Project_Individual_DormitoryManagerment\BUS_TIER\bin\Debug\BUS_TIER.dll
+E:\github\Winform_Project_Individual_DormitoryManagerment\BUS_TIER\bin\Debug\BUS_TIER.pdb
+E:\github\Winform_Project_Individual_DormitoryManagerment\BUS_TIER\bin\Debug\CONNECTTOR_TIER.dll
+E:\github\Winform_Project_Individual_DormitoryManagerment\BUS_TIER\bin\Debug\MODEL.dll
+E:\github\Winform_Project_Individual_DormitoryManagerment\BUS_TIER\bin\Debug\CONNECTTOR_TIER.pdb
+E:\github\Winform_Project_Individual_DormitoryManagerment\BUS_TIER\bin\Debug\MODEL.pdb
+E:\github\Winform_Project_Individual_DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.csprojAssemblyReference.cache
+E:\github\Winform_Project_Individual_DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.csproj.CoreCompileInputs.cache
+E:\github\Winform_Project_Individual_DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.csproj.CopyComplete
+E:\github\Winform_Project_Individual_DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.dll
+E:\github\Winform_Project_Individual_DormitoryManagerment\BUS_TIER\obj\Debug\BUS_TIER.pdb

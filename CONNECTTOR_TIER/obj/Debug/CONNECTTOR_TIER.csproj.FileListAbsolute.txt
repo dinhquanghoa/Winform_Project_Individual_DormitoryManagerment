@@ -1,0 +1,30 @@
+D:\EducationManagerment\CONNECTTOR_TIER\bin\Debug\CONNECTTOR_TIER.dll
+D:\EducationManagerment\CONNECTTOR_TIER\bin\Debug\CONNECTTOR_TIER.pdb
+D:\EducationManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.csprojAssemblyReference.cache
+D:\EducationManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.csproj.CoreCompileInputs.cache
+D:\EducationManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.dll
+D:\EducationManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\CONNECTTOR_TIER\bin\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\CONNECTTOR_TIER\bin\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.csprojAssemblyReference.cache
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.csproj.CoreCompileInputs.cache
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\CONNECTTOR_TIER\bin\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\CONNECTTOR_TIER\bin\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.csprojAssemblyReference.cache
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.csproj.CoreCompileInputs.cache
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\CONNECTTOR_TIER\bin\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\CONNECTTOR_TIER\bin\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.csprojAssemblyReference.cache
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.csproj.CoreCompileInputs.cache
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\DormitoryManagerment\CONNECTTOR_TIER\bin\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\DormitoryManagerment\CONNECTTOR_TIER\bin\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\DormitoryManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.csprojAssemblyReference.cache
+E:\DTU\2.2 Winform\DormitoryManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.csproj.CoreCompileInputs.cache
+E:\DTU\2.2 Winform\DormitoryManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\DormitoryManagerment\CONNECTTOR_TIER\obj\Debug\CONNECTTOR_TIER.pdb

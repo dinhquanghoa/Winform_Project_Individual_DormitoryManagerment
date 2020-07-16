@@ -1,0 +1,111 @@
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\obj\Debug\DormitoryManagement.csprojAssemblyReference.cache
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\obj\Debug\DormitoryManagement.CreateAccount_Form.resources
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\obj\Debug\DormitoryManagement.Form1.resources
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\obj\Debug\DormitoryManagement.NhanVien_Form.resources
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\obj\Debug\DormitoryManagement.Phong_Form.resources
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\obj\Debug\DormitoryManagement.Main_Form.resources
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\obj\Debug\EducationManagement.Properties.Resources.resources
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\obj\Debug\DormitoryManagement.SinhVien_Form.resources
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\obj\Debug\DormitoryManagement.csproj.GenerateResource.cache
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\obj\Debug\DormitoryManagement.csproj.CoreCompileInputs.cache
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\obj\Debug\EducationManagement.exe
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\obj\Debug\EducationManagement.pdb
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\bin\Debug\EDUCATION_MANAGEMENT.mdf
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\bin\Debug\EDUCATION_MANAGEMENT_log.ldf
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\bin\Debug\EducationManagement.exe
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\bin\Debug\EducationManagement.pdb
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\bin\Debug\BUS_TIER.dll
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\bin\Debug\MODEL.dll
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\bin\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\bin\Debug\BUS_TIER.pdb
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\bin\Debug\MODEL.pdb
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\bin\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\Project individual\EducationManagerment\EducationManagement\obj\Debug\DormitoryManagement.csproj.CopyComplete
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\DORMITORY_MANAGEMENT.mdf
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\DORMITORY_MANAGEMENT_log.ldf
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\EducationManagement.exe
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\EducationManagement.pdb
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\BUS_TIER.dll
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\MODEL.dll
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\BUS_TIER.pdb
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\MODEL.pdb
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csprojAssemblyReference.cache
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Form1.resources
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.NhanVien_Form.resources
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Phong_Form.resources
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Main_Form.resources
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\EducationManagement.Properties.Resources.resources
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.SinhVien_Form.resources
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csproj.GenerateResource.cache
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csproj.CoreCompileInputs.cache
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csproj.CopyComplete
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\EducationManagement.exe
+E:\DTU\2.2 Winform\Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\EducationManagement.pdb
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\DORMITORY_MANAGEMENT.mdf
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\DORMITORY_MANAGEMENT_log.ldf
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\EducationManagement.exe
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\EducationManagement.pdb
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\BUS_TIER.dll
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\MODEL.dll
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\BUS_TIER.pdb
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\MODEL.pdb
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\bin\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csprojAssemblyReference.cache
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Form1.resources
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.NhanVien_Form.resources
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Phong_Form.resources
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Main_Form.resources
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\EducationManagement.Properties.Resources.resources
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.SinhVien_Form.resources
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csproj.GenerateResource.cache
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csproj.CoreCompileInputs.cache
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csproj.CopyComplete
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\EducationManagement.exe
+E:\DTU\2.2 Winform\ĐINH QUANG HOA_CS414DIS Project individual\DormitoryManagerment\DormitoryManagement\obj\Debug\EducationManagement.pdb
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\bin\Debug\DORMITORY_MANAGEMENT.mdf
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\bin\Debug\DORMITORY_MANAGEMENT_log.ldf
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\bin\Debug\EducationManagement.exe
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\bin\Debug\EducationManagement.pdb
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\bin\Debug\BUS_TIER.dll
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\bin\Debug\MODEL.dll
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\bin\Debug\CONNECTTOR_TIER.dll
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\bin\Debug\BUS_TIER.pdb
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\bin\Debug\MODEL.pdb
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\bin\Debug\CONNECTTOR_TIER.pdb
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csprojAssemblyReference.cache
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Form1.resources
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Employee_Form.resources
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Room_Form.resources
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Main_Form.resources
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\obj\Debug\EducationManagement.Properties.Resources.resources
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Student_Form.resources
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csproj.GenerateResource.cache
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csproj.CoreCompileInputs.cache
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csproj.CopyComplete
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\obj\Debug\EducationManagement.exe
+E:\DTU\2.2 Winform\DormitoryManagerment\DormitoryManagement\obj\Debug\EducationManagement.pdb
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\bin\Debug\DORMITORY_MANAGEMENT.mdf
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\bin\Debug\DORMITORY_MANAGEMENT_log.ldf
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\bin\Debug\BUS_TIER.dll
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\bin\Debug\MODEL.dll
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\bin\Debug\CONNECTTOR_TIER.dll
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\bin\Debug\BUS_TIER.pdb
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\bin\Debug\MODEL.pdb
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\bin\Debug\CONNECTTOR_TIER.pdb
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csprojAssemblyReference.cache
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Form1.resources
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Employee_Form.resources
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Room_Form.resources
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Main_Form.resources
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Student_Form.resources
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csproj.GenerateResource.cache
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csproj.CoreCompileInputs.cache
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.csproj.CopyComplete
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\bin\Debug\DormitoryManagement.exe
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\bin\Debug\DormitoryManagement.pdb
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.Properties.Resources.resources
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.exe
+E:\github\Winform_Project_Individual_DormitoryManagerment\DormitoryManagement\obj\Debug\DormitoryManagement.pdb
